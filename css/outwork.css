@@ -1,0 +1,31 @@
+body{
+background-color:#194f61;
+}
+.out1{
+
+margin: 0px 650px;
+color: bisque;
+font-size: 30px;
+}
+a {
+
+align-items: center;
+font-style: oblique;
+justify-items: center;
+font-size: 18px;
+background-color: black;
+padding: 10px 15px;
+text-decoration: none;
+color: whitesmoke;
+border-radius: 20px;
+margin: 10px 10px ;
+transition: 1s;
+
+}
+
+a:hover{
+
+background-color: whitesmoke;
+color: black;
+
+}

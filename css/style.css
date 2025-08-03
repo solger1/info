@@ -1,0 +1,161 @@
+body{
+background-color:#194f61;
+}
+
+
+
+
+.AbutDiv{
+
+align-items: center;
+background:#5b6f76;
+height: 160px;
+width: 400px;
+justify-items: center; 
+margin: 0px 510px;
+border-color: black;
+border-style: solid;
+border-radius: 15px;
+   transform: translate(1px);
+}
+
+.tb{
+
+align-items: center;
+text-decoration: none;
+color: black;
+margin: 10PX 110PX;
+padding:4px;
+border-radius: 15px;
+transition: 1s;
+
+
+}
+.abut{
+
+font-size: 30px;
+margin: 40px;
+height: 15px;
+width: 15px;
+padding:5px ;
+border-radius: 15px;
+margin: 0PX 117PX;
+align-items: center;
+text-decoration: none;
+color: black;
+transition: 1s;
+
+
+
+
+
+}
+.AbutDiv a:hover{
+background-color: #728a92;
+
+
+}
+
+
+
+.OutDiv{
+
+align-items: center;
+background:#5b6f76;
+height: 160px;
+width: 400px;
+justify-items: center; 
+margin: 30px 510px;
+border-color: black;
+border-style: solid;
+border-radius: 15px;
+   transform: translate(1px);
+}
+
+.ob{
+
+align-items: center;
+text-decoration: none;
+color: black;
+margin: 10PX 110PX;
+padding:4px;
+border-radius: 15px;
+transition: 1s;
+
+
+}
+.out{
+
+font-size: 30px;
+margin: 40px;
+height: 15px;
+width: 15px;
+padding:5px ;
+border-radius: 15px;
+margin: 0PX 125PX;
+align-items: center;
+text-decoration: none;
+color: black;
+transition: 1s;
+
+
+
+
+
+}
+.OutDiv a:hover{
+background-color: #728a92;
+
+
+}
+.MoreDiv{
+
+align-items: center;
+background:#5b6f76;
+height: 160px;
+width: 400px;
+justify-items: center; 
+margin: 30px 510px;
+border-color: black;
+border-style: solid;
+border-radius: 15px;
+   transform: translate(1px);
+}
+
+
+.mb{
+
+align-items: center;
+text-decoration: none;
+color: black;
+margin: 10PX 110PX;
+padding:4px;
+border-radius: 15px;
+transition: 1s;
+
+
+}
+.more{
+
+font-size: 30px;
+margin: 40px;
+height: 15px;
+width: 15px;
+padding:5px ;
+border-radius: 15px;
+margin: 0PX 155PX;
+align-items: center;
+text-decoration: none;
+color: black;
+transition: 1s;
+
+
+
+
+
+}
+.MoreDiv a:hover{
+background-color: #728a92;
+
+
+}

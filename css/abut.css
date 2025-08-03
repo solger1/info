@@ -1,0 +1,41 @@
+body{
+background-color:#194f61;
+}
+
+.divT{
+
+color: blanchedalmond;
+align-items: center;
+margin: 90px 600px;
+font-style: oblique;
+justify-items: center;
+font-size: 18px;
+
+
+}
+a {
+
+align-items: center;
+font-style: oblique;
+justify-items: center;
+font-size: 18px;
+background-color: black;
+padding: 10px 15px;
+text-decoration: none;
+color: whitesmoke;
+border-radius: 20px;
+margin: 10px 10px ;
+transition: 1s;
+
+}
+
+a:hover{
+
+background-color: whitesmoke;
+color: black;
+
+}
+li {
+
+font-size: 23px;
+}

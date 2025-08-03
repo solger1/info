@@ -1,0 +1,53 @@
+body{
+background-color:#194f61;
+}
+.MoreDiv{
+    align-items: center;
+    background:#5b6f76;
+    height: 160px;
+    width: 400px;
+    justify-items: center; 
+    margin: 0px 510px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px 15px;
+    transform: translate(1px);
+}
+
+.MoreDiv a {
+    align-items: center;
+    text-decoration: none;
+    justify-items: center;
+    color: black;
+    margin: 10PX 110PX;
+    padding:4px;
+    border-radius: 15px;
+    font-size: 25px;
+    transition: 1s;
+    background: #5b6f76 ;
+}
+.more1{
+
+    margin: 40px 620px;
+    color: blanchedalmond;
+}
+.MoreDiv a:hover{
+    background-color: #728a92;
+}
+.Back {
+    align-items: center;
+    text-decoration: none;
+    justify-items: center;
+    color: white;
+    margin: 10px 10px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: black;
+    transition: 1s;
+}
+.Back:hover {
+    background-color: whitesmoke;
+    color: black;
+}
