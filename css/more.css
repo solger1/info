@@ -51,3 +51,71 @@ background-color:#194f61;
     background-color: whitesmoke;
     color: black;
 }
+/* مور ديف يعني الايمبد المور ون الكتابه*/
+.legnd{ 
+    align-items: center;
+    background:#5b6f76;
+    height: 160px;
+    width: 400px;
+    justify-items: center; 
+    margin: 0px 510px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px 15px;
+    transform: translate(1px);
+}
+
+.legnd a {
+    align-items: center;
+    text-decoration: none;
+    justify-items: center;
+    color: black;
+    margin: 10PX 110PX;
+    padding:4px;
+    border-radius: 15px;
+    font-size: 25px;
+    transition: 1s;
+    background: #5b6f76 ;
+}
+.morelegnd{
+
+
+    color: blanchedalmond;
+}
+.legnd a:hover{
+    background-color: #728a92;
+}
+.dl{
+    align-items: center;
+    background:#5b6f76;
+    height: 160px;
+    width: 400px;
+    justify-items: center; 
+    margin: 0px 510px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px 15px;
+    transform: translate(1px);
+}
+
+.dl a {
+    align-items: center;
+    text-decoration: none;
+    justify-items: center;
+    color: black;
+    margin: 10PX 110PX;
+    padding:4px ;
+    border-radius: 15px;
+    font-size: 25px;
+    transition: 1s;
+    background: #5b6f76 ;
+}
+.moredl{
+
+    color: blanchedalmond;
+}
+.dl a:hover{
+    background-color: #728a92;
+}
